@@ -1,5 +1,6 @@
 # Denver-Airbnb-Analysis
 Analyzing the Airbnb market and its pressures on housing and gentrification in Denver, Colorado.
+View the Tableau dashboard here: [https://public.tableau.com/views/AirbnbAnalysis_17870269877930/Marketsizeandconcentration?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](url)
 
 # Executive Summary
 
