@@ -2,6 +2,8 @@
 Analyzing the Airbnb market and its pressures on housing and gentrification in Denver, Colorado.
 View the Tableau dashboard here: [https://public.tableau.com/views/AirbnbAnalysis_17870269877930/Marketsizeandconcentration?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](url)
 
+<img width="613" height="411" alt="correlation matrix" src="https://github.com/user-attachments/assets/cfc90e4e-3b72-4e4f-8488-a0a7fe01f9b8" />
+
 # Executive Summary
 
 What began as an exploratory market analysis of short term rentals became an insight into displacement trends in the second-most actively gentrified city in America. In this project, I first analyze who profits from Airbnb listings in Denver, and after noticing that rental density is highest in historically gentrified neighborhoods, further analyze the correlation as well as Airbnb’s impact on the housing market. 
@@ -19,6 +21,8 @@ Python: pandas, geopandas, API calls, numpy, statistics, geospatial analysis and
 Tableau: data visualization, statistics, correlation matrix
 
 # Results 
+
+<img width="586" height="655" alt="housing pressure" src="https://github.com/user-attachments/assets/f8f97b9a-5f15-4d2e-8e60-1641bfc89591" />
 
 While the revenue generated from Airbnb often funnels back into the local economy, it comes with worrying signs of housing pressure and gentrification.
 
